@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import axios from 'axios';
 import Character from './components/Character';
-// import Card from './components/Card';
+
 
 
 const App = () => {
